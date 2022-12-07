@@ -2,7 +2,8 @@
 //funções
 
 function retor(variavel){
-	return TRUE;
+	return TRUE; a
 	}
+
 
 ?>
