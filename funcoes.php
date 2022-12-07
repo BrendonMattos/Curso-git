@@ -2,8 +2,12 @@
 //funções
 
 function retor(variavel){
-	return TRUE; a
-	}
+	return TRUE; 
+}
+
+function teste(){
+	return FALSE;
+}
 
 
 ?>
