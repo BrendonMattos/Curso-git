@@ -1,7 +1,7 @@
 <?php
 //funções
 
-function retor(){
+function retor(variavel){
 	return TRUE;
 	}
 
